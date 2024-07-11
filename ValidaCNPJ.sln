@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidaCNPJ.Tests", "ValidaCNPJ.Tests.csproj", "{ABDF78DE-93FE-423C-8E6B-0D82C27E4726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidaCNPJ", "ValidaCNPJ.csproj", "{5FD41F47-C919-476E-B59B-C260C82523EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDF78DE-93FE-423C-8E6B-0D82C27E4726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDF78DE-93FE-423C-8E6B-0D82C27E4726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDF78DE-93FE-423C-8E6B-0D82C27E4726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDF78DE-93FE-423C-8E6B-0D82C27E4726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD41F47-C919-476E-B59B-C260C82523EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD41F47-C919-476E-B59B-C260C82523EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD41F47-C919-476E-B59B-C260C82523EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD41F47-C919-476E-B59B-C260C82523EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
