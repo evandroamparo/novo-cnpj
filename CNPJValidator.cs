@@ -1,16 +1,4 @@
-﻿// public class Program
-// 
-// {
-    //     public static void Main()
-    //     
-    // {
-//         string cnpj = "A1B2C3D4E5F6G7H8I1J";
-//         CNPJValidator validator = new CNPJValidator();
-//         Console.WriteLine(validator.ValidarCNPJ(cnpj) ? "CNPJ válido" : "CNPJ inválido");
-
-        //     }
-        // }
-namespace CNPJ;
+﻿namespace CNPJ;
 
 public class CNPJValidator
 {
